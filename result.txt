@@ -1,0 +1,40 @@
+----------------Result 1----------------
+Source sentence: 段誉一双手虽能动弹，但穴道被点之后全无半分力气，连一枚红菱的硬皮也无法剥开
+True target sentence: 阿碧笑道：“公子爷勿是江南人，勿会剥菱，我拨你剥
+Generated target sentence: 马碧全他们说
+----------------Result 2----------------
+Source sentence: ”左掌扬处，向前急连砍出五刀，抓住段誉退出了牟尼堂门外
+True target sentence: 保定帝、本因、本观等纵前想要夺人，均被他这连环五刀封住，无法抢上
+Generated target sentence: 子穆左臂微动，自腰间拔出长剑，说道：“姑娘，请留步
+----------------Result 3----------------
+Source sentence: 正明无子，这段誉身负宗庙社稷的重寄，请前辈释放
+True target sentence: ”青袍客道：“我正要大理段氏乱伦败德，断子约孙
+Generated target sentence: ”当下去给如昔日之约，要将段公子在慕容先生墓前烧化了
+----------------Result 4----------------
+Source sentence: ”段誉道：“不成！我要去见他们帮主晓谕一番，不许他们这样胡乱杀人
+True target sentence: ”钟灵眼中露出怜悯的神色，道：“段大哥，你这人太也不知天高地厚
+Generated target sentence: ”段誉道：“你给你再我什么？”段正淳皱眉道：“你不听话，我叫妈打你手心
+----------------Result 5----------------
+Source sentence: 如此说来，你对这姓段的委实是一往情深
+True target sentence: ”王语嫣脸上一红，道：“什么一往情深？我对他压根儿便谈不上什么‘情’字
+Generated target sentence: 巴又知名给你等着到手，你着手心
+----------------Result 6----------------
+Source sentence: 段誉轻抚她头发，安慰道：“别怕
+True target sentence: ”两人上下衣衫均已汗湿，便如刚从水中爬起来一般
+Generated target sentence: ”那少女低声道：“信封信笺上都是毒
+----------------Result 7----------------
+Source sentence: 段誉忙将王语嫣抱在怀里，护住她头脸
+True target sentence: 但听得嗡嗡之声震耳欲聋，各人均知再行扑打也是枉然，只有将衣襟翻起，盖住了脸孔
+Generated target sentence: 他大理国治下，他只须派遣数百兵马，立时便可拿人，他居然亲身前来，好言相求
+----------------Result 8----------------
+Source sentence: 这时带着七他酒意，胸前满是油腻，被段誉拖着手臂，畏畏缩缩的不敢进来
+True target sentence: 一进花厅，便向保定帝和皇后叩下头去
+Generated target sentence: 日命丧我解是要回到所来之处，却不鸠摩智，做这里陪你
+----------------Result 9----------------
+Source sentence: 叶二娘挥掌上拂，切他腕脉，段正淳反手一勾，叶二娘格格娇笑，中指弹向他手背
+True target sentence: 刹那之间，两人交了三招，段正淳心头暗惊：“这婆娘恁地了得
+Generated target sentence: 他们别重逢，都是不胜之喜
+----------------Result 10----------------
+Source sentence: 段誉叫道：“妈，爹爹亲自迎接你来啦
+True target sentence: ”玉虚散人哼了一声，勒停了马
+Generated target sentence: ”那少女子道：“你姓段？”语音中微带诧异
